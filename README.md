@@ -1,3 +1,5 @@
+ Originally created by [Jakobowsky](https://github.com/jakobowsky),
+I just Updated the code for my personal use 
 # Amazon Price Tracker 
 - Get Link to Website with Items
 - Get Items Links
